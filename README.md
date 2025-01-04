@@ -21,7 +21,7 @@ This repository hosts our experimentation with text generation using **Transform
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gemma2-challenge.git
+   git clone https://github.com/ENKIO0311/gemma2-challenge.git
    cd gemma2-challenge
    ```
 
